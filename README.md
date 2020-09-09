@@ -6,3 +6,6 @@ My first dashboard represents customer distribution, total sales, and profit mar
 
 ## Storyline of the business outlook of a sample Superstore across all US States
 Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’. You are the business owner of the retail firm and want to see how your company is performing. You are interested in finding out the weak areas where you can work to make more profit. What all business problems you can derive by looking into the data?
+
+## Discount Mart
+Discount mart is a small supermarket owned by a salesman. He wants a dashboard where he can track how well Discount Mart is doing for this year (in terms of Sales, Profit and Quantity Sold). He would also like to know how well categories are performing as well as different regions. The salesman assumes that most customers buy 2 or more products per basket/order but would like this confirmed by the data. He also noted that Profit is 30% of the selling price.
